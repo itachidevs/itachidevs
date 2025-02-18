@@ -5,31 +5,20 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## 🚀 About Me
 - **Name:** Baby
 - **Username:** itachidevs
-- **Location:** Hidden Leaf Village
-- **Interests:** Coding, Open Source, AI/ML, Web Development, DevOps
+- **Location:** India
+- **Interests:** Coding, Open Source, Web Development
 - **Hobbies:** Reading, Gaming, Anime, and Manga
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript, TypeScript, C++, Java
+- **Languages:** Python, JavaScript, TypeScript, C Java
 - **Frameworks:** React, Node.js, Django, Flask, Spring Boot
-- **Tools:** Git, Docker, Kubernetes, Jenkins, Travis CI
-- **Cloud:** AWS, Azure, GCP
+- **Tools:** Git, Cisco Packet Tracer
 
 ## 📈 GitHub Stats
 ![Itachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itachidevs&show_icons=true&theme=radical)
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itachidevs&theme=radical)
-
-## 💼 Work Experience
-- **Role:** Software Developer
-- **Company:** Akatsuki Corp
-- **Duration:** 3 years
-- **Responsibilities:** 
-  - Developing and maintaining web applications
-  - Collaborating with cross-functional teams
-  - Implementing CI/CD pipelines
-  - Writing clean and efficient code
 
 ## 📫 How to reach me
 - **Email:** babybhavani2002@gmail.com
