@@ -32,14 +32,14 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
   - Writing clean and efficient code
 
 ## 📫 How to reach me
-- **Email:** itachi@example.com
-- **LinkedIn:** [Itachi Uchiha](https://linkedin.com/in/itachiuchiha)
+- **Email:** babybhavani2002@gmail.com
+- **LinkedIn:** [Baby](https://linkedin.com/in/baby-bhavani-boddu)
 - **Twitter:** [@itachi_devs](https://twitter.com/itachi_devs)
 
 ## 🌱 Currently Learning
-- Advanced Machine Learning Techniques
-- Cloud Native Development
-- Blockchain Technology
+- React
+- Full stack
+- DSA
 
 ## 🤝 Let's Connect
 Feel free to reach out to me for collaboration on exciting projects or if you just want to chat about tech, anime, or anything in between!
